@@ -1,4 +1,4 @@
-# Crawler1 Project
+# Crawler Project
 
 This project, named "Crawler1," is a simple web crawler application written in C# that extracts email addresses from a given URL. It utilizes the `System.Text.RegularExpressions` namespace for email extraction using regular expressions.
 
