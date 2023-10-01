@@ -1,6 +1,6 @@
 ﻿using System.Text.RegularExpressions;
 
-namespace Crawler1
+namespace Crawler
 {
     class Program
     {
